@@ -1,1 +1,28 @@
-
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//hacksw/handcal//NONSGML v1.0//EN
+BEGIN:VEVENT
+UID:0920251b2d93
+DTSTAMP:20231113T084306Z
+ORGANIZER;CN=Françoise Mendes:MAILTO:otaree-owner@efficimo.lan
+DTSTART:20231116T100041ZDTEND:20231116T110041Z
+SUMMARY:🤝 Degustation du vin
+DESCRIPTION:<p>Mais avec modération</p> Suivi de projet
+END:VEVENT
+BEGIN:VEVENT
+UID:0d2f6123793e
+DTSTAMP:20231113T084051Z
+ORGANIZER;CN=Françoise Mendes:MAILTO:otaree-owner@efficimo.lan
+DTSTART:20231117T170037Z
+SUMMARY:✅ Envoyer une bouteille
+DESCRIPTION:<p>Une bonne bouteille, mais pas trop chere</p> À traiter
+END:VEVENT
+BEGIN:VEVENT
+UID:3344b1322c30
+DTSTAMP:20231113T084139Z
+ORGANIZER;CN=Françoise Mendes:MAILTO:otaree-owner@efficimo.lan
+DTSTART:20231116T085954Z
+SUMMARY:📞 Appeler le caviste
+DESCRIPTION:<p>Un bon caviste</p> 
+END:VEVENT
+END:VCALENDAR
